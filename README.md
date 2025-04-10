@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is my resume - <https://drive.google.com/drive/u/0/home>
+## [View Resume](https://drive.google.com/file/d/19of0oa9VF10LJQt-qvU6M8IyP8lYy8_X/view?usp=sharing)
 <!--
 **Ojaswini-Pradhan/ojaswini-pradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
